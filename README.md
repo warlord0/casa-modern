@@ -65,4 +65,4 @@ The swatches show page, card, dialog, accent, icon tint and text. Add real scree
 
 ## Credit
 
-Built on the Noctis theme from [Clooos/Home-Assistant-Mobile-First](https://github.com/Clooos/Home-Assistant-Mobile-First) (MIT, (c) 2023 Cloos Quentin), with the card-mod parts removed and the design tokens extended. See `LICENSE`.
+Built on the Noctis theme from [Clooos/Home-Assistant-Mobile-First](https://github.com/Clooos/Home-Assistant-Mobile-First) (MIT, (c) 2023 Cloos Quentin), with the card-mod parts removed and the design tokens extended. The Clooos licence text is in `NOTICE`; this repo's own licence is `LICENSE`.
