@@ -2,7 +2,7 @@
 
 ![](images/social.png)
 
-Dark (and, for six of them, light) Home Assistant themes: Nocturne, Pelagic (and its Rose, Copper and Ice variants), Aurel, Northstar, Neon Grid, Monolith, Fusion, Bordeaux and Afterglow.
+Dark (and, for seven of them, light) Home Assistant themes: Nocturne, Pelagic (and its Rose, Copper and Ice variants), Aurel, Northstar, Neon Grid, Monolith, Fusion, Bordeaux, Shiraz and Afterglow.
 
 ## Install
 
@@ -13,7 +13,7 @@ Dark (and, for six of them, light) Home Assistant themes: Nocturne, Pelagic (and
 
 ## Themes
 
-12 themes. The six with a second swatch row also have a light mode.
+13 themes. The seven with a second swatch row also have a light mode.
 
 ### Casa Modern Nocturne
 
@@ -62,6 +62,10 @@ Dark (and, for six of them, light) Home Assistant themes: Nocturne, Pelagic (and
 ### Casa Modern Afterglow
 
 ![Casa Modern Afterglow](images/casa-modern-afterglow.svg)
+
+### Casa Modern Shiraz
+
+![Casa Modern Shiraz](images/casa-modern-shiraz.svg)
 
 The swatches show page, card, dialog, accent, icon tint and text. Add real screenshots to `images/` for the HACS page.
 
