@@ -1,0 +1,173 @@
+Casa Modern Pelagic Copper:
+
+  # Fonts
+  primary-font-family: 'sans-serif'
+  paper-font-common-base_-_font-family: "var(--primary-font-family)"
+  paper-font-common-code_-_font-family: "var(--primary-font-family)"
+  paper-font-body1_-_font-family: "var(--primary-font-family)"
+  paper-font-subhead_-_font-family: "var(--primary-font-family)"
+  paper-font-headline_-_font-family: "var(--primary-font-family)"
+  paper-font-caption_-_font-family: "var(--primary-font-family)"
+  paper-font-title_-_font-family: "var(--primary-font-family)"
+  ha-card-header-font-family: "var(--primary-font-family)"
+
+  # Text
+  text-color: '#E3F0EE'
+  primary-text-color: 'var(--text-color)'
+  text-primary-color: 'var(--text-color)'
+  sidebar-text-color: 'var(--text-color)'
+  secondary-text-color: '#93AAA8'
+  text-medium-light-color: '#7C9392'
+  text-medium-color: '#647A79'
+  disabled-text-color: '#465958'
+  primary-color: '#55D6C2'
+
+  # Text Fields an Dropdown
+  mdc-text-field-fill-color: 'var(--background-color)'
+  mdc-text-field-ink-color: 'var(--text-color)'
+  mdc-select-fill-color: 'var(--background-color)'
+  mdc-text-field-label-ink-color: 'var(--secondary-text-color)'
+  ha-color-form-background: "rgba(255, 255, 255, 0.06)"
+  ha-color-form-background-hover: "rgba(255, 255, 255, 0.10)"
+  ha-color-form-background-disabled: "rgba(255, 255, 255, 0.03)"
+  ha-color-form-ink-color: "var(--text-color)"
+  input-fill-color: 'var(--background-color)'
+  input-ink-color: 'var(--text-color)'
+  input-label-ink-color: 'var(--text-color)'
+  input-disabled-fill-color: 'var(--background-color)'
+  input-disabled-ink-color: 'var(--disabled-text-color)'
+  input-disabled-label-ink-color: 'var(--disabled-text-color)'
+  input-idle-line-color: 'var(--background-color)'
+  input-dropdown-icon-color: 'var(--secondary-text-color)'
+  input-hover-line-color: 'var(--primary-color)'
+  code-editor-background-color: '#0B1C1E'
+  codemirror-property: 'var(--accent-color)'
+  
+  # Main Colors
+  app-header-background-color: '#071012'
+  header-height: 48px
+  accent-color: '#55D6C2'
+  accent-medium-color: 'var(--accent-color)'
+  ha-color-text-primary-inverted: '#071012'
+  ha-color-text-primary: '#E3F0EE'
+  ha-color-text-disabled: '#647A79'
+  ha-color-on-disabled-loud: '#647A79'
+  ha-color-on-disabled-normal: '#647A79'
+  ha-color-on-disabled-quiet: '#647A79'
+  ha-color-fill-disabled-loud-hover: '#1B3A3C'
+  ha-color-fill-disabled-loud-resting: '#163638'
+  ha-color-fill-disabled-normal-hover: '#123032'
+  ha-color-fill-disabled-normal-resting: '#102729'
+  ha-color-fill-disabled-quiet-hover: '#102729'
+  ha-color-fill-disabled-quiet-resting: '#0B1C1E'
+  ha-color-border-neutral-loud: '#647A79'
+  ha-color-border-neutral-normal: '#25484A'
+  ha-color-border-neutral-quiet: '#163638'
+  ha-color-on-neutral-loud: '#E3F0EE'
+  ha-color-on-neutral-normal: '#BFD2D0'
+  ha-color-on-neutral-quiet: '#93AAA8'
+  ha-color-fill-neutral-loud-active: '#2E5254'
+  ha-color-fill-neutral-loud-hover: '#416668'
+  ha-color-fill-neutral-loud-resting: '#365C5E'
+  ha-color-fill-neutral-normal-active: '#1E4244'
+  ha-color-fill-neutral-normal-hover: '#1A3B3D'
+  ha-color-fill-neutral-normal-resting: '#163638'
+  ha-color-fill-neutral-quiet-active: '#1A3B3D'
+  ha-color-fill-neutral-quiet-hover: '#163638'
+  ha-color-fill-neutral-quiet-resting: '#0B1C1E'
+  ha-color-text-link: '#55D6C2'
+  ha-color-border-primary-loud: '#55D6C2'
+  ha-color-border-primary-normal: '#33897E'
+  ha-color-border-primary-quiet: '#1F5753'
+  ha-color-on-primary-quiet: '#55D6C2'
+  ha-color-on-primary-normal: '#7BE3D3'
+  ha-color-on-primary-loud: '#071012'
+  ha-color-fill-primary-loud-active: '#46BAA8'
+  ha-color-fill-primary-loud-hover: '#6FE2D1'
+  ha-color-fill-primary-loud-resting: '#55D6C2'
+  ha-color-fill-primary-normal-active: '#1F4B4A'
+  ha-color-fill-primary-normal-hover: '#1A4141'
+  ha-color-fill-primary-normal-resting: '#163638'
+  ha-color-fill-primary-quiet-active: '#1A4141'
+  ha-color-fill-primary-quiet-hover: '#163638'
+  ha-color-fill-primary-quiet-resting: '#102729'
+  lovelace-background: "radial-gradient(56% 53% at 42% 28%, rgba(85,214,194,0.10), transparent 70%), radial-gradient(77% 39% at 53% 85%, rgba(85,214,194,0.11), transparent 70%), radial-gradient(60% 57% at 8% 31%, rgba(208,139,91,0.16), transparent 70%), linear-gradient(180deg, #0B1C1E 0%, #071012 100%) fixed"
+  rgb-primary-color: '85, 214, 194'
+  state-active-color: '#55D6C2'
+  state-inactive-color: '#647A79'
+  state-icon-color: '#D08B5B'
+
+  # Background
+  background-color: '#071012'
+  primary-background-color: 'var(--background-color)'
+  background-color-2: '#163638'
+  secondary-background-color: 'none'
+  markdown-code-background-color: 'var(--background-color)'
+  
+  # Card
+  card-background-color: '#0B1C1E'
+  ha-card-background: "url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxNjAnIGhlaWdodD0nMTYwJz48ZmlsdGVyIGlkPSduJz48ZmVUdXJidWxlbmNlIHR5cGU9J2ZyYWN0YWxOb2lzZScgYmFzZUZyZXF1ZW5jeT0nLjg1JyBudW1PY3RhdmVzPScyJyBzdGl0Y2hUaWxlcz0nc3RpdGNoJy8+PGZlQ29sb3JNYXRyaXggdmFsdWVzPScwIDAgMCAwIDEgIDAgMCAwIDAgMSAgMCAwIDAgMCAxICAwIDAgMCAuMDYgMCcvPjwvZmlsdGVyPjxyZWN0IHdpZHRoPScxMDAlJyBoZWlnaHQ9JzEwMCUnIGZpbHRlcj0ndXJsKCNuKScvPjwvc3ZnPg==), linear-gradient(180deg, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0) 55%), #0B1C1E"
+  ha-card-box-shadow: 'inset 0 1px 0 rgba(255,255,255,0.06)'
+  ha-card-border-radius: '14px'
+  bubble-border-radius: '14px'
+  ha-card-border-style: 'solid'
+  ha-card-border-width: '1px'
+  ha-card-border-color: 'rgba(255,255,255,0.09)'
+  border-color: 'none'
+  grid-card-gap: '14px'
+  border-style: 'none !important'
+
+  # Icons
+  paper-item-icon-color: 'var(--text-color)'
+  paper-item-icon-active-color: 'var(--accent-color)'
+  
+  # Sidebar
+  sidebar-background-color: 'var(--background-color)'
+  sidebar-icon-color: '#93AAA8'
+  sidebar-selected-icon-color: 'var(--accent-color)'
+  sidebar-selected-text-color: 'var(--text-color)'
+  paper-listbox-background-color: 'var(--sidebar-background-color)'
+  divider-color: 'rgba(255,255,255,0.09)'
+  light-primary-color: '#0B1C1E'
+
+  # Sliders
+  paper-slider-knob-color: 'var(--accent-color)'
+  paper-slider-pin-color: 'var(--background-color-2)'
+  paper-slider-active-color: 'var(--accent-color)'
+  paper-slider-container-color: 'var(--background-color-2)'
+
+  # Toggle:
+  paper-toggle-button-checked-bar-color: 'var(--accent-color)'
+  mdc-theme-primary: 'var(--accent-color)'
+
+  # Switch
+  switch-unchecked-color: '#93AAA8'
+  switch-checked-button-color: 'var(--accent-color)'
+  switch-unchecked-track-color: 'var(--background-color-2)'
+  switch-checked-track-color: 'var(--background-color-2)'
+
+  # Radio Button
+  paper-radio-button-checked-color: 'var(--accent-color)'
+
+  # Popups
+  more-info-header-background: 'var(--secondary-background-color)'
+  paper-dialog-background-color: '#102729'
+
+  # Tables
+  table-row-background-color: 'var(--background-color)'
+  table-row-alternative-background-color: '#0B1C1E'
+
+  # Badges
+  label-badge-background-color: 'var(--background-color)'
+  label-badge-text-color: 'var(--text-primary-color)'
+  label-badge-red: 'rgba(73,85,108,1)'
+  label-badge-blue: 'rgba(26,137,245,1)'
+  label-badge-green: 'rgba(0,202,139,1)'
+  label-badge-yellow: 'rgba(222,176,107,1)'
+
+  paper-input-container-focus-color: 'var(--accent-color)'
+  
+
+
+  # Alarm
+  alarm-color-armed: 'rgba(247,53,67,1)'
