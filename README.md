@@ -1,5 +1,7 @@
 # Casa Modern
 
+![](images/social.png)
+
 Dark (and, for six of them, light) Home Assistant themes: Nocturne, Pelagic (and its Rose, Copper and Ice variants), Aurel, Northstar, Neon Grid, Monolith, Fusion, Bordeaux and Afterglow.
 
 ## Install
